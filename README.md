@@ -23,5 +23,5 @@ SheCycle is a modern web-based thrift and rental store that promotes affordable 
 
 # Project Report
  Detailed report included in this repository:  
- *SheCycle_Project_Report.pdf*
+ *Shecycle_project_report.pdf*
 
