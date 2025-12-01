@@ -1,3 +1,4 @@
+![activity](https://github.com/user-attachments/assets/b565be50-b903-4d65-be09-380997b093f4)
 # Thrift_Site
 # SheCycle – Sustainable Thrift & Rental Fashion Platform
 
@@ -12,15 +13,15 @@ SheCycle is a modern web-based hostel thrift and rental store that promotes affo
 
 # Buyer Side
 . Browse and request rental/thrift items
-. Buyer login & profile management with photo upload
+. Buyer login and profile management with photo upload
 . Location input for connecting nearby users
 
 
 # Tech Stack Used
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP
-- Database: MySQL
-- Server: XAMPP Apache
+. Frontend: HTML, CSS, JavaScript
+. Backend: PHP
+. Database: MySQL
+. Server: XAMPP Apache
 
 # Project Report
  Detailed report included in this repository:  
