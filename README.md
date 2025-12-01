@@ -1,6 +1,6 @@
 # SheCycle – Sustainable Thrift & Rental Fashion Platform
 
-SheCycle is a modern web-based hostel thrift and rental store that promotes affordable and sustainable fashion for girls. It enables peer-to-peer exchange of clothing items, helping reduce textile waste while connecting students within their local community.
+SheCycle is a modern web-based thrift and rental store that promotes affordable and sustainable fashion for girls. It enables peer-to-peer exchange of clothing items, helping reduce textile waste .
 
 # Key Features
 
